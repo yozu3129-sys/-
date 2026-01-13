@@ -56,7 +56,7 @@ width: 100%;
 /*banner*/
 .hero {
     height: 100vh;
-    background-image: url("../images/hero.jpg");
+    background-image: url("images/hero.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -205,3 +205,4 @@ a:active {
         width: 45%;
     }
 }
+
